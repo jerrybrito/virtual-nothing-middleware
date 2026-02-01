@@ -1,0 +1,2 @@
+# Requires: temporal-infinity
+# (Not available on PyPI)
